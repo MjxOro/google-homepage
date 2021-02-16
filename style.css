@@ -29,9 +29,12 @@ body {
   #title {
     color:#98ffcc;
     position: absolute;
+    font-size: 120px;
+    font-family: system-ui;
+    z-index: 1;
+    text-align: left;
     top:-80px;
-    left:90px;
-      
+    left:100px;
   }
   #img {
     position:absolute;
